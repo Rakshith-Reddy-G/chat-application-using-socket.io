@@ -73,3 +73,7 @@ A chatting app using Socket.IO is an excellent project for learning real-time we
 
 # OUTPUT SCREENS :
 
+![Image](https://github.com/user-attachments/assets/760cec64-7152-4488-8c19-add1eb812f27)
+
+
+![Image](https://github.com/user-attachments/assets/d013f555-6a6a-4daf-a5d4-1b537cbab227)
