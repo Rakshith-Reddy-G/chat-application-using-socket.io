@@ -19,15 +19,15 @@ A chatting app using Socket.IO is a real-time communication application that all
 # Key Features of a Chatting App Using Socket.IO
 Real-Time Messaging: Users can send and receive messages instantly without refreshing the page.
 
-*User Identification: Each user is identified by a unique username or ID.
+*User Identification*: Each user is identified by a unique username or ID.
 
-*Message Broadcasting: Messages sent by one user are broadcasted to all connected users in the chat room.
+*Message Broadcasting*: Messages sent by one user are broadcasted to all connected users in the chat room.
 
-*Typing Indicators: The app can show when a user is typing a message.
+*Typing Indicators*: The app can show when a user is typing a message.
 
-*User Join/Leave Notifications: The app notifies all users when someone joins or leaves the chat.
+*User Join/Leave Notifications*: The app notifies all users when someone joins or leaves the chat.
 
-*Responsive Design: The app is designed to work seamlessly on both desktop and mobile devices.
+*Responsive Design*: The app is designed to work seamlessly on both desktop and mobile devices.
 
 # Development Process
 The development of a chatting app using Socket.IO involves creating both the client-side (frontend) and server-side (backend) components. The frontend is built using HTML, CSS, and JavaScript, while the backend is powered by Node.js and Socket.IO. Below is a step-by-step breakdown of the process:
